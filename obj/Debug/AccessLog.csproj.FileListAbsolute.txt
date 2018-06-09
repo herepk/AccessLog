@@ -1,0 +1,6 @@
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\bin\Debug\AccessLog.exe.config
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\bin\Debug\AccessLog.exe
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\bin\Debug\AccessLog.pdb
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\obj\Debug\AccessLog.csprojResolveAssemblyReference.cache
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\obj\Debug\AccessLog.exe
+C:\ELGS_68977\Release\RB_2017Q3_ELGS\Console\AccessLog\obj\Debug\AccessLog.pdb
